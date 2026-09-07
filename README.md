@@ -16,7 +16,7 @@
 ## 👨‍💻 About me
 
 - 🎓 普普通通CS专业大学生
-- 🌱 当前学习：CS50、Git/GitHub、Linux、Python
+- 🌱 当前学习：Git/GitHub、数据结构、Linux、Python
 - 🔨 正在使用 Codex 辅助学习
 - 🎯 为大二实习备战！！！
 
@@ -30,8 +30,7 @@
 
 ## 🚀 Featured project
 
-### [Git Learning Practice](https://github.com/xiaoshupt/git-learning-practice)
-
+### [Git/Github 学习记录](https://github.com/xiaoshupt/git-learning-practice)
 
 我的 Git 与 GitHub 学习仓库，记录了：
 
@@ -40,6 +39,8 @@
 - 多仓库协作模拟
 - Pull Request 完整流程
 - README 与 Markdown 实践
+
+### [数据结构 学习记录](https://github.com/xiaoshupt/data-structures-learning)
 
 ## 🧰 Currently using
 
